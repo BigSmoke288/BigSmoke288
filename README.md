@@ -1,3 +1,4 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=BigSmoke288&hide_title=true&show_icons=true&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&icon_color=026a04&text_color=ffffff"/>
 </div>
