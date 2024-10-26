@@ -1,5 +1,5 @@
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&icon_color=ffffff&text_color=ffffff"/
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&icon_color=ffffff&text_color=ffffff"/>
 </div>
 <div> 
   <a href="https://youtube.com/@BigSmokrs288" target="_blank"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
